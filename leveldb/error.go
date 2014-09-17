@@ -9,7 +9,7 @@ package leveldb
 import (
 	"errors"
 
-	"github.com/syndtr/goleveldb/leveldb/util"
+	"github.com/tanxunrong/goleveldb/leveldb/util"
 )
 
 var (

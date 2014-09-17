@@ -10,7 +10,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/syndtr/goleveldb/leveldb/util"
+	"github.com/tanxunrong/goleveldb/leveldb/util"
 )
 
 // The LLRB implementation were taken from https://github.com/petar/GoLLRB.

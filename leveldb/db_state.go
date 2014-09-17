@@ -10,8 +10,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/syndtr/goleveldb/leveldb/journal"
-	"github.com/syndtr/goleveldb/leveldb/memdb"
+	"github.com/tanxunrong/goleveldb/leveldb/journal"
+	"github.com/tanxunrong/goleveldb/leveldb/memdb"
 )
 
 type memDB struct {

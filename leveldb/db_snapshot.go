@@ -11,9 +11,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/syndtr/goleveldb/leveldb/iterator"
-	"github.com/syndtr/goleveldb/leveldb/opt"
-	"github.com/syndtr/goleveldb/leveldb/util"
+	"github.com/tanxunrong/goleveldb/leveldb/iterator"
+	"github.com/tanxunrong/goleveldb/leveldb/opt"
+	"github.com/tanxunrong/goleveldb/leveldb/util"
 )
 
 type snapshotElement struct {
